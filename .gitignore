@@ -1,0 +1,20 @@
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments / editors
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+
+# Outputs
+checkpoints/
+outputs/
+logs/
+
+# Keep folder, ignore contents
+data/ebssa/**
+!data/ebssa/.gitkeep
