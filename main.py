@@ -2,6 +2,7 @@
 
 
 # git commands to commit changes 
+# git status
 # git add .
 # git commit -m "Initial project import"
 # git push -u origin main
